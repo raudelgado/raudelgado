@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> 
- <img width="100%" height="152" src="https://open.spotify.com/embed/track/6TvxPS4fj4LUdjw2es4g21?utm_source=generator">
-</p>
+<div style="text-align: left;">
+  <iframe style="border-radius: 12px;" src="https://open.spotify.com/embed/track/6TvxPS4fj4LUdjw2es4g21?utm_source=generator&theme=0" width="100%" height="445" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
